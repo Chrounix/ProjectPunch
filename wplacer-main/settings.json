@@ -1,0 +1,7 @@
+{
+    "turnstileNotifications": true,
+    "accountCooldown": 10000,
+    "dropletReserve": 0,
+    "antiGriefStandby": 300000,
+    "drawingMethod": "outline-first"
+}
